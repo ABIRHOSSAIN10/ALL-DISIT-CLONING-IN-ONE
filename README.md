@@ -14,6 +14,6 @@ gem install lolcat
 
 git clone https://github.com/ABIRHOSSAIN10/ALL-DISIT-CLONING-IN-ONE
 
-cd LL-DISIT-CLONING-IN-ONE
+cd ALL-DISIT-CLONING-IN-ONE
 
 python2 ALL-DISIT-CRACKER.py
